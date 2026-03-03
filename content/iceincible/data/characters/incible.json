@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-94,
+				-354
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-62,
+				-472
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				100,
+				-366
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-119,
+				-416
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-97,
+				-162
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/iceincible",
+	"position": [
+		0,
+		0
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "incible",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -6656677,
+	"camera_position": [
+		70,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

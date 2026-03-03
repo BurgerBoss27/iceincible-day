@@ -1,0 +1,95 @@
+{
+	"songs": [
+		[
+			"iceincible rap",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bayblades",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dave and icey",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ice shucks",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"too ceptual",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ice vs bob vs ron",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ice vs mark",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ices big exe bonanza",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
