@@ -1,69 +1,134 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-94,
 				-354
 			],
-			"anim": "idle",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
+			"anim": "idle",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "idle"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-62,
 				-472
 			],
-			"anim": "singDOWN",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "down",
+			"anim": "singDOWN",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "down"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				100,
 				-366
 			],
-			"anim": "singLEFT",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "left",
+			"anim": "singLEFT",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "left"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-119,
 				-416
 			],
-			"anim": "singRIGHT",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "right",
+			"anim": "singRIGHT",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "right"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-97,
 				-162
 			],
-			"anim": "singUP",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "up",
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				-108,
+				-351
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
 			"indices": [],
 			"flipX": false
+		},
+		{
+			"offsets": [
+				-108,
+				-351
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				-108,
+				-351
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				-108,
+				-351
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				-108,
+				-351
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "scream"
 		}
 	],
 	"no_antialiasing": true,
@@ -82,8 +147,8 @@
 	"flip_x": true,
 	"healthbar_colour": -6656677,
 	"camera_position": [
-		70,
-		0
+		50,
+		350
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="iceincible.png">
+<TextureAtlas imagePath="incible.png">
 	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="down0000" x="10" y="10" width="263" height="287" pivotX="16.95" pivotY="0" frameX="0" frameY="-18" frameWidth="263" frameHeight="305"/>
@@ -23,10 +23,18 @@
 	<SubTexture name="right0003" x="1157" y="396" width="422" height="339" frameX="-21" frameY="0" frameWidth="486" frameHeight="339"/>
 	<SubTexture name="right0004" x="1589" y="396" width="416" height="339" frameX="0" frameY="0" frameWidth="486" frameHeight="339"/>
 	<SubTexture name="right0005" x="1589" y="396" width="416" height="339" frameX="0" frameY="0" frameWidth="486" frameHeight="339"/>
-	<SubTexture name="up0000" x="10" y="774" width="278" height="613" pivotX="0" pivotY="72.15" frameX="-7" frameY="0" frameWidth="301" frameHeight="613"/>
-	<SubTexture name="up0001" x="10" y="774" width="278" height="613" frameX="-7" frameY="0" frameWidth="301" frameHeight="613"/>
-	<SubTexture name="up0002" x="298" y="774" width="288" height="529" frameX="-4" frameY="-51" frameWidth="301" frameHeight="613"/>
-	<SubTexture name="up0003" x="298" y="774" width="288" height="529" frameX="-4" frameY="-51" frameWidth="301" frameHeight="613"/>
-	<SubTexture name="up0004" x="596" y="774" width="301" height="490" frameX="0" frameY="-72" frameWidth="301" frameHeight="613"/>
-	<SubTexture name="up0005" x="596" y="774" width="301" height="490" frameX="0" frameY="-72" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="scream0000" x="10" y="774" width="219" height="379" pivotX="0" pivotY="3.75"/>
+	<SubTexture name="scream0001" x="239" y="774" width="219" height="378" frameX="0" frameY="-1" frameWidth="219" frameHeight="379"/>
+	<SubTexture name="scream0002" x="468" y="774" width="219" height="379"/>
+	<SubTexture name="scream0003" x="697" y="774" width="219" height="379"/>
+	<SubTexture name="scream0004" x="10" y="774" width="219" height="379"/>
+	<SubTexture name="scream0005" x="239" y="774" width="219" height="378" frameX="0" frameY="-1" frameWidth="219" frameHeight="379"/>
+	<SubTexture name="scream0006" x="468" y="774" width="219" height="379"/>
+	<SubTexture name="scream0007" x="697" y="774" width="219" height="379"/>
+	<SubTexture name="up0000" x="926" y="774" width="278" height="613" pivotX="0" pivotY="72.15" frameX="-7" frameY="0" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="up0001" x="926" y="774" width="278" height="613" frameX="-7" frameY="0" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="up0002" x="1214" y="774" width="288" height="529" frameX="-4" frameY="-51" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="up0003" x="1214" y="774" width="288" height="529" frameX="-4" frameY="-51" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="up0004" x="1512" y="774" width="301" height="490" frameX="0" frameY="-72" frameWidth="301" frameHeight="613"/>
+	<SubTexture name="up0005" x="1512" y="774" width="301" height="490" frameX="0" frameY="-72" frameWidth="301" frameHeight="613"/>
 </TextureAtlas>

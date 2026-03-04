@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				14531.25,
+				[
+					[
+						"Play Animation",
+						"scream",
+						" bf"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"idle",
+						" bf"
+					]
+				]
+			]
+		]
+	}
+}
