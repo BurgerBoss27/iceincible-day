@@ -1,69 +1,69 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-104,
 				-346
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"flipX": false,
+			"fps": 24,
+			"name": "idle",
 			"indices": [],
-			"name": "idle"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-107,
 				-374
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"flipX": false,
+			"fps": 24,
+			"name": "down",
 			"indices": [],
-			"name": "down"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-8,
 				-353
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"flipX": false,
+			"fps": 24,
+			"name": "left",
 			"indices": [],
-			"name": "left"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-115,
 				-373
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"flipX": false,
+			"fps": 24,
+			"name": "right",
 			"indices": [],
-			"name": "right"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-97,
 				-292
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"flipX": false,
+			"fps": 24,
+			"name": "up",
 			"indices": [],
-			"name": "up"
+			"flipX": false
 		}
 	],
 	"no_antialiasing": false,
@@ -82,8 +82,8 @@
 	"flip_x": false,
 	"healthbar_colour": -1,
 	"camera_position": [
-		278,
-		348
+		284,
+		270
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
