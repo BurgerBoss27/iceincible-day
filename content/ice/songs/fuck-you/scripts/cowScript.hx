@@ -12,6 +12,12 @@ function onLoad(){
     cow = new BGSprite(dir + "cow", -850, -900, 1, 1);
 	cow.scale.set(1.1, 1.1);
     add(cow);
+	
+    vig = new BGSprite(dir + "vig", -850, -900, 1, 1);
+	vig.alpha = 0;
+	vig.cameras = [camOther];
+	vig.screenCenter(FlxAxes.XY);
+    add(vig);
 
     blocker = new FlxSprite(0, 0);
     blocker.makeGraphic(FlxG.width + 1, FlxG.height + 1, FlxColor.BLACK);
@@ -34,6 +40,8 @@ function onStepHit(){
     switch(curStep){
 		case(571):
 			FlxTween.tween(cow, {y: 0}, 1, {ease:FlxEase.bounceOut});
+		case(576):
+			FlxTween.tween(vig, {alpha: 1.0}, 2.5, {ease:FlxEase.LINEAR});
         case(602):
             FlxTween.tween(blocker, {alpha: 1.0}, 0.5, {ease:FlxEase.LINEAR});
         case(608):
