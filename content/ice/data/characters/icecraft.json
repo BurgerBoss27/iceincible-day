@@ -1,82 +1,82 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "idle"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "down"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "left"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "right"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "up"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "turn",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "turn",
+			"anim": "turn",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "turn"
 		}
 	],
 	"no_antialiasing": true,
@@ -89,11 +89,11 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "face",
+	"healthicon": "incible",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -8355712,
+	"healthbar_colour": -3766173,
 	"camera_position": [
 		0,
 		0
