@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-104,
-				-346
+				-35,
+				-345
 			],
 			"flipY": false,
 			"loop": false,
@@ -15,8 +15,8 @@
 		},
 		{
 			"offsets": [
-				-107,
-				-374
+				-35,
+				-345
 			],
 			"flipY": false,
 			"loop": false,
@@ -28,8 +28,8 @@
 		},
 		{
 			"offsets": [
-				-8,
-				-353
+				-31,
+				-346
 			],
 			"flipY": false,
 			"loop": false,
@@ -41,8 +41,8 @@
 		},
 		{
 			"offsets": [
-				-115,
-				-373
+				-35,
+				-345
 			],
 			"flipY": false,
 			"loop": false,
@@ -54,8 +54,8 @@
 		},
 		{
 			"offsets": [
-				-97,
-				-292
+				-36,
+				-344
 			],
 			"flipY": false,
 			"loop": false,
@@ -67,7 +67,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/fuckyou/bob",
+	"image": "characters/gappyappy/icebambi",
 	"position": [
 		0,
 		0
@@ -76,17 +76,17 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bobnbossip",
+	"healthicon": "icebambi",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": false,
-	"healthbar_colour": -1,
+	"healthbar_colour": -38106,
 	"camera_position": [
-		284,
-		270
+		10,
+		328
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
 	"scale": 1,
-	"_editor_isPlayer": false
+	"_editor_isPlayer": true
 }

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-104,
-				-346
+				16,
+				-201
 			],
 			"flipY": false,
 			"loop": false,
@@ -15,8 +15,8 @@
 		},
 		{
 			"offsets": [
-				-107,
-				-374
+				13,
+				-201
 			],
 			"flipY": false,
 			"loop": false,
@@ -28,8 +28,8 @@
 		},
 		{
 			"offsets": [
-				-8,
-				-353
+				16,
+				-202
 			],
 			"flipY": false,
 			"loop": false,
@@ -41,8 +41,8 @@
 		},
 		{
 			"offsets": [
-				-115,
-				-373
+				15,
+				-200
 			],
 			"flipY": false,
 			"loop": false,
@@ -54,8 +54,8 @@
 		},
 		{
 			"offsets": [
-				-97,
-				-292
+				16,
+				-198
 			],
 			"flipY": false,
 			"loop": false,
@@ -67,7 +67,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/fuckyou/bob",
+	"image": "characters/gappyappy/krystal",
 	"position": [
 		0,
 		0
@@ -76,14 +76,14 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bobnbossip",
+	"healthicon": "krystal",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": false,
-	"healthbar_colour": -1,
+	"healthbar_colour": -9874476,
 	"camera_position": [
-		284,
-		270
+		10,
+		328
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
