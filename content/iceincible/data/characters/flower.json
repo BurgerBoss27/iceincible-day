@@ -5,12 +5,12 @@
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
 			"flipY": false,
-			"anim": "danceRight",
 			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"flipX": false,
+			"indices": [],
 			"name": "danceRight"
 		},
 		{
@@ -18,12 +18,12 @@
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
 			"flipY": false,
-			"anim": "danceLeft",
 			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"flipX": false,
+			"indices": [],
 			"name": "danceLeft"
 		},
 		{
@@ -31,20 +31,20 @@
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
 			"flipY": false,
-			"anim": "look",
 			"loop": false,
+			"fps": 24,
+			"anim": "look",
+			"flipX": false,
+			"indices": [],
 			"name": "lookup"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/gappyappy/flower",
 	"position": [
-		0,
-		0
+		650,
+		450
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
@@ -54,13 +54,13 @@
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": false,
-	"healthbar_colour": -9874476,
+	"healthbar_colour": -206557,
 	"camera_position": [
-		10,
-		328
+		-31,
+		-77
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
-	"scale": 1.8,
+	"scale": 1,
 	"_editor_isPlayer": false
 }
