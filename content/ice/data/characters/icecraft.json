@@ -1,82 +1,82 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"flipX": false,
+			"fps": 24,
+			"name": "idle",
 			"indices": [],
-			"name": "idle"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"flipX": false,
+			"fps": 24,
+			"name": "down",
 			"indices": [],
-			"name": "down"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"flipX": false,
+			"fps": 24,
+			"name": "left",
 			"indices": [],
-			"name": "left"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"flipX": false,
+			"fps": 24,
+			"name": "right",
 			"indices": [],
-			"name": "right"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"flipX": false,
+			"fps": 24,
+			"name": "up",
 			"indices": [],
-			"name": "up"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "turn",
-			"flipX": false,
+			"fps": 24,
+			"name": "turn",
 			"indices": [],
-			"name": "turn"
+			"flipX": false
 		}
 	],
 	"no_antialiasing": true,
@@ -89,11 +89,11 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "incible",
+	"healthicon": "ice",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -3766173,
+	"healthbar_colour": -3775549,
 	"camera_position": [
 		0,
 		0
