@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-94,
-				-354
+				-954,
+				-510
 			],
 			"flipY": false,
 			"loop": false,
@@ -15,8 +15,8 @@
 		},
 		{
 			"offsets": [
-				-62,
-				-472
+				-944,
+				-544
 			],
 			"flipY": false,
 			"loop": false,
@@ -28,8 +28,8 @@
 		},
 		{
 			"offsets": [
-				100,
-				-366
+				-881,
+				-498
 			],
 			"flipY": false,
 			"loop": false,
@@ -41,8 +41,8 @@
 		},
 		{
 			"offsets": [
-				-119,
-				-416
+				-996,
+				-523
 			],
 			"flipY": false,
 			"loop": false,
@@ -54,8 +54,8 @@
 		},
 		{
 			"offsets": [
-				-97,
-				-162
+				-940,
+				-391
 			],
 			"flipY": false,
 			"loop": false,
@@ -64,91 +64,26 @@
 			"flipX": false,
 			"indices": [],
 			"name": "up"
-		},
-		{
-			"loop": true,
-			"flipY": false,
-			"offsets": [
-				-108,
-				-351
-			],
-			"anim": "scream",
-			"fps": 24,
-			"name": "scream",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"offsets": [
-				-108,
-				-351
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singLEFT-alt",
-			"loop": false,
-			"name": "scream"
-		},
-		{
-			"offsets": [
-				-108,
-				-351
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singDOWN-alt",
-			"loop": false,
-			"name": "scream"
-		},
-		{
-			"offsets": [
-				-108,
-				-351
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singUP-alt",
-			"loop": false,
-			"name": "scream"
-		},
-		{
-			"offsets": [
-				-108,
-				-351
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "scream"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/iceincible",
+	"image": "characters/ice",
 	"position": [
-		0,
-		0
+		-840,
+		-250
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "incible",
+	"healthicon": "ice",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -6656677,
+	"healthbar_colour": -3766173,
 	"camera_position": [
-		50,
-		350
+		-835,
+		524
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
