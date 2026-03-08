@@ -16,7 +16,7 @@
 		{
 			"offsets": [
 				13,
-				-201
+				-202
 			],
 			"flipY": false,
 			"loop": false,
@@ -82,8 +82,8 @@
 	"flip_x": false,
 	"healthbar_colour": -9874476,
 	"camera_position": [
-		10,
-		328
+		189,
+		222
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
