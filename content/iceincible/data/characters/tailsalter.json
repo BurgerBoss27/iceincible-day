@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tails Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-157
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tails Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-197
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tails Note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-193
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tails note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-124
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tails NOTE UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/toocept/tails_alter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "deadT",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		95,
+		47
+	],
+	"camera_position": [
+		-110,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

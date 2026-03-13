@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				74556.2130177515,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tailsalter"
+					]
+				]
+			],
+			[
+				121420.118343195,
+				[
+					[
+						"Change Character",
+						"gf",
+						"tailsalter"
+					],
+					[
+						"Change Character",
+						"dad",
+						"g8me"
+					]
+				]
+			]
+		]
+	}
+}
