@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="edison greenwall.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instance 10000" x="8" y="8" width="716" height="494" pivotX="140" pivotY="0"/>
+	<SubTexture name="down instance 10001" x="732" y="8" width="716" height="494"/>
+	<SubTexture name="down instance 10002" x="1456" y="8" width="716" height="494"/>
+	<SubTexture name="idle instance 10000" x="2180" y="8" width="549" height="493" pivotX="73" pivotY="-8"/>
+	<SubTexture name="idle instance 10001" x="2737" y="8" width="549" height="493"/>
+	<SubTexture name="idle instance 10002" x="3294" y="8" width="549" height="493"/>
+	<SubTexture name="left instance 10000" x="8" y="510" width="605" height="482" pivotX="180.85" pivotY="0"/>
+	<SubTexture name="left instance 10001" x="621" y="510" width="605" height="482"/>
+	<SubTexture name="left instance 10002" x="1234" y="510" width="605" height="482"/>
+	<SubTexture name="right instance 10000" x="1847" y="510" width="709" height="513" pivotX="0.7" pivotY="0"/>
+	<SubTexture name="right instance 10001" x="2564" y="510" width="709" height="513"/>
+	<SubTexture name="right instance 10002" x="3281" y="510" width="709" height="513"/>
+	<SubTexture name="up instance 10000" x="8" y="1031" width="429" height="553" pivotX="-1" pivotY="69"/>
+	<SubTexture name="up instance 10001" x="445" y="1031" width="429" height="553"/>
+	<SubTexture name="up instance 10002" x="882" y="1031" width="429" height="553"/>
+</TextureAtlas>
