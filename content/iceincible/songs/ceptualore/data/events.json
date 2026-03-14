@@ -2,22 +2,12 @@
 	"song": {
 		"events": [
 			[
-				21600,
+				137191.115702479,
 				[
 					[
-						"Change Character",
-						"dad",
-						"Ed"
-					]
-				]
-			],
-			[
-				40800,
-				[
-					[
-						"Change Character",
-						"dad",
-						"EdV2"
+						"Screen Shake",
+						"1.5, 1",
+						"1.5, 1"
 					]
 				]
 			]
