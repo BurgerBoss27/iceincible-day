@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ice.png">
+<SubTexture name="Ice Idle0000" x="0" y="0" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice Left0000" x="199" y="0" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice Up0000" x="398" y="0" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice Down0000" x="597" y="0" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice Right0000" x="0" y="302" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice LMiss0000" x="199" y="302" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice UMiss0000" x="398" y="302" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice DMiss0000" x="597" y="302" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+<SubTexture name="Ice RMiss0000" x="796" y="0" width="199" height="302" frameX="-159" frameY="-118" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
