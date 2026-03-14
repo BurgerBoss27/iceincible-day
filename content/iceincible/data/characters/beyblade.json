@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				-208
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				22,
+				-217
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				-222
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				14,
+				-187
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				16,
+				-201
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beyblade/beybladingissupposedtobefun",
+	"position": [
+		-250,
+		0
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "krystal",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -9874476,
+	"camera_position": [
+		275,
+		289
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
