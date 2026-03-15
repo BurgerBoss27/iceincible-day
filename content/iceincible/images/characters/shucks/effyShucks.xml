@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="effyShucks.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="effyIdle instance 10000" x="2" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10001" x="2" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10002" x="2" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10003" x="2" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10004" x="430" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10005" x="430" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10006" x="430" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10007" x="430" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10008" x="858" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10009" x="858" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10010" x="858" y="2" width="426" height="421"/>
+	<SubTexture name="effyIdle instance 10011" x="858" y="2" width="426" height="421"/>
+	<SubTexture name="effydown instance 10000" x="1286" y="2" width="444" height="418"/>
+	<SubTexture name="effydown instance 10001" x="1286" y="2" width="444" height="418"/>
+	<SubTexture name="effydown instance 10002" x="2" y="425" width="444" height="418"/>
+	<SubTexture name="effydown instance 10003" x="2" y="425" width="444" height="418"/>
+	<SubTexture name="effyleft instance 10000" x="448" y="425" width="445" height="427"/>
+	<SubTexture name="effyleft instance 10001" x="448" y="425" width="445" height="427"/>
+	<SubTexture name="effyleft instance 10002" x="895" y="425" width="445" height="427"/>
+	<SubTexture name="effyleft instance 10003" x="895" y="425" width="445" height="427"/>
+	<SubTexture name="effyright instance 10000" x="1342" y="425" width="394" height="419"/>
+	<SubTexture name="effyright instance 10001" x="1342" y="425" width="394" height="419"/>
+	<SubTexture name="effyright instance 10002" x="2" y="854" width="394" height="419"/>
+	<SubTexture name="effyright instance 10003" x="2" y="854" width="394" height="419"/>
+	<SubTexture name="effyup instance 10000" x="398" y="854" width="416" height="417"/>
+	<SubTexture name="effyup instance 10001" x="398" y="854" width="416" height="417"/>
+	<SubTexture name="effyup instance 10002" x="816" y="854" width="416" height="417"/>
+	<SubTexture name="effyup instance 10003" x="816" y="854" width="416" height="417"/>
+</TextureAtlas>

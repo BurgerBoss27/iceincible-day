@@ -1,63 +1,63 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-90,
 				70
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 12,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-80,
 				73
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 12,
-			"name": "left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-91,
 				67
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 12,
-			"name": "down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-111,
 				70
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 12,
-			"name": "up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-90,
 				67
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 12,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/lore/edv2",
+	"image": "characters/ceptulore/edv2",
 	"position": [
 		0,
 		0
@@ -68,6 +68,7 @@
 	"gameover_confirm_sound": null,
 	"healthicon": "ring",
 	"gameover_character": null,
+	"vslice_sustains": false,
 	"flip_x": false,
 	"healthbar_colour": -12014314,
 	"camera_position": [
