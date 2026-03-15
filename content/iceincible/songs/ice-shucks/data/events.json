@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Scroll Speed",
+						"2.8",
+						"0"
+					]
+				]
+			],
+			[
+				38325,
+				[
+					[
+						"Change Scroll Speed",
+						"10000000",
+						"0"
+					]
+				]
+			],
+			[
+				42975,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}
