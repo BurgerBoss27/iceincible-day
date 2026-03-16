@@ -1,76 +1,76 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Down"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Left"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Right"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Up"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"flipY": false,
+			"loop": false,
 			"fps": 12,
-			"name": "Idle",
+			"anim": "idle",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/ceptulore/dingleboy",
 	"position": [
-		-340,
-		-10
+		-320,
+		40
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,

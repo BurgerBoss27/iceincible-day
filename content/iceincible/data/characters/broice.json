@@ -7,35 +7,9 @@
 				0,
 				0
 			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "ICENEW Idle",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				16,
-				-113
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "ICENEW DMISS",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				16,
-				-116
-			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ICENEW Down",
+			"name": "down",
 			"indices": [],
 			"flipX": false
 		},
@@ -43,25 +17,12 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				65,
-				35
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "ICENEW LMISS",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				66,
-				37
+				0,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ICENEW Left",
+			"name": "left",
 			"indices": [],
 			"flipX": false
 		},
@@ -69,25 +30,12 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				24,
-				-46
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "ICENEW RMISS",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				21,
-				-35
+				0,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ICENEW Right",
+			"name": "right",
 			"indices": [],
 			"flipX": false
 		},
@@ -95,50 +43,85 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				-31,
-				14
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "ICENEW UMISS",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				-7,
-				13
+				0,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "ICENEW Up",
+			"name": "up",
 			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				20000,
+				20001,
+				20002,
+				20003,
+				20004,
+				20005,
+				20006,
+				20007,
+				20008,
+				20009
+			],
 			"flipX": false
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/ceptulore/ICENEW",
+	"image": "characters/toocept/ice",
 	"position": [
-		40,
-		350
+		110,
+		300
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "ice1",
+	"healthicon": "broice",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -6656677,
+	"healthbar_colour": -3373222,
 	"camera_position": [
-		228,
-		-197
+		0,
+		0
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
-	"scale": 2,
+	"scale": 3.2,
 	"_editor_isPlayer": true
 }

@@ -1,76 +1,76 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-170,
 				220
 			],
-			"indices": [],
-			"fps": 12,
-			"flipX": false,
-			"flipY": false,
 			"anim": "idle",
-			"loop": false,
-			"name": "idle instance 1"
+			"fps": 12,
+			"name": "idle instance 1",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-86,
 				220
 			],
-			"indices": [],
-			"fps": 12,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "down instance 1"
+			"fps": 12,
+			"name": "down instance 1",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-2,
 				214
 			],
-			"indices": [],
-			"fps": 12,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "left instance 1"
+			"fps": 12,
+			"name": "left instance 1",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-245,
 				229
 			],
-			"indices": [],
-			"fps": 12,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "right instance 1"
+			"fps": 12,
+			"name": "right instance 1",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-230,
 				289
 			],
-			"indices": [],
-			"fps": 12,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singUP",
-			"loop": false,
-			"name": "up instance 1"
+			"fps": 12,
+			"name": "up instance 1",
+			"indices": [],
+			"flipX": false
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/ceptulore/edison greenwall",
 	"position": [
-		-100,
-		400
+		-220,
+		520
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,

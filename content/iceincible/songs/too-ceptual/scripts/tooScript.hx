@@ -61,7 +61,6 @@ function onStepHit(){
 			FlxTween.tween(blocker, {alpha: 1.0}, 0.5, {ease:FlxEase.LINEAR});
 			FlxTween.tween(camHUD, {alpha: 0.0}, 0.5, {ease:FlxEase.LINEAR});
 		case(856):
-			camFollow.setPosition(300, 350);
 			FlxTween.tween(staty, {alpha: 0.1}, 2, {ease:FlxEase.LINEAR});
 			FlxTween.tween(blocker, {alpha: 0.0}, 2, {ease:FlxEase.LINEAR});
 			flashRed.alpha = 1;

@@ -59,8 +59,8 @@
 	"no_antialiasing": true,
 	"image": "characters/ceptulore/edv2",
 	"position": [
-		0,
-		0
+		40,
+		170
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
@@ -73,10 +73,10 @@
 	"healthbar_colour": -12014314,
 	"camera_position": [
 		-55,
-		30
+		-150
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
-	"scale": 1.5,
+	"scale": 2,
 	"_editor_isPlayer": false
 }

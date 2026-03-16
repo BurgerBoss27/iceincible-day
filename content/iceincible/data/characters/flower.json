@@ -1,43 +1,43 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
-			"flipX": false,
+			"fps": 24,
+			"name": "danceRight",
 			"indices": [],
-			"name": "danceRight"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
-			"flipX": false,
+			"fps": 24,
+			"name": "danceLeft",
 			"indices": [],
-			"name": "danceLeft"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "look",
-			"flipX": false,
+			"fps": 24,
+			"name": "lookup",
 			"indices": [],
-			"name": "lookup"
+			"flipX": false
 		}
 	],
 	"no_antialiasing": true,
@@ -46,7 +46,7 @@
 		650,
 		450
 	],
-	"dance_every": 2,
+	"dance_every": 1,
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
@@ -57,7 +57,7 @@
 	"healthbar_colour": -206557,
 	"camera_position": [
 		-31,
-		-77
+		-141
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
