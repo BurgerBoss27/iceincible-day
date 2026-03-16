@@ -1,6 +1,14 @@
 var dir:String = "bg/ceptualore/";
 
 function onLoad(){
+	gfGroup.visible = false;
+	
+    flash = new FlxSprite(0, 0);
+    flash.makeGraphic(5000, 5000, FlxColor.WHITE);
+    flash.alpha = 0;
+    flash.screenCenter(FlxAxes.XY);
+    add(flash);
+
     one = new BGSprite(dir + "1", 1300, 570, 1, 1); //900 - out | 1300 - in
 	one.cameras = [camOther];
 	one.origin.set(0, 0);
@@ -27,12 +35,18 @@ function onLoad(){
     add(five);
 }
 
-function onCreatePost(){
-
-}
-
 function onStepHit(){
     switch(curStep){
+		case(280): //flash 1
+			FlxTween.tween(flash, {alpha: 1.0}, 0.3, {ease:FlxEase.LINEAR});
+		case(288):
+			FlxTween.tween(flash, {alpha: 0.0}, 1.0, {ease:FlxEase.LINEAR});
+			
+		case(536): //flash 2
+			FlxTween.tween(flash, {alpha: 1.0}, 0.3, {ease:FlxEase.LINEAR});
+		case(544):
+			FlxTween.tween(flash, {alpha: 0.0}, 1.0, {ease:FlxEase.LINEAR});
+	
         case(2341): //one
             FlxTween.tween(one, {x: 900.0}, 0.2, {ease:FlxEase.circOut});
         case(2368): 
@@ -82,5 +96,8 @@ function onStepHit(){
             FlxTween.tween(five, {x: 900.0}, 0.2, {ease:FlxEase.circOut});
         case(2495): 
             five.x = 1300;
+			
+        case(2572): 
+            gfGroup.visible = true;
     }
 }

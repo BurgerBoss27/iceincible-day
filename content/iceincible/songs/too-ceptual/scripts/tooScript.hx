@@ -78,7 +78,7 @@ function onStepHit(){
 		case(2136):
 			blocker.alpha = 1;
 			flashRed.alpha = 1;
-			FlxTween.tween(flashRed, {alpha: 0.0}, 3.5, {ease:FlxEase.LINEAR});
+			FlxTween.tween(flashRed, {alpha: 0.0}, 3, {ease:FlxEase.LINEAR});
 			camHUD.alpha = 0;
 	}
 }
