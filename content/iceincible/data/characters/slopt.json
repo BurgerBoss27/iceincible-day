@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sloptp Idle"
+		},
+		{
+			"offsets": [
+				90,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sloptp Left"
+		},
+		{
+			"offsets": [
+				121,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sloptp Right"
+		},
+		{
+			"offsets": [
+				81,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDown",
+			"indices": [],
+			"name": "sloptp Down"
+		},
+		{
+			"offsets": [
+				133,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sloptp up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sloptp Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ceptulore/sloptp",
+	"position": [
+		0,
+		-20
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "slopt",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -3947601,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

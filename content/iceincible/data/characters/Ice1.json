@@ -1,121 +1,121 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Ice Idle",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Ice Idle"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Ice Left",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Ice Left"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Ice Down",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Ice Down"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Ice Right",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Ice Right"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "Ice Up"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "Ice Up",
+			"name": "Ice DMiss",
 			"indices": [],
 			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"flipX": false,
-			"indices": [],
-			"name": "Ice DMiss"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"flipX": false,
+			"fps": 24,
+			"name": "Ice LMiss",
 			"indices": [],
-			"name": "Ice LMiss"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"flipX": false,
+			"fps": 24,
+			"name": "Ice RMiss",
 			"indices": [],
-			"name": "Ice RMiss"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				0
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"flipX": false,
+			"fps": 24,
+			"name": "Ice UMiss",
 			"indices": [],
-			"name": "Ice UMiss"
+			"flipX": false
 		}
 	],
 	"no_antialiasing": true,
@@ -128,7 +128,7 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "incible",
+	"healthicon": "ice1",
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
