@@ -1,0 +1,40 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle",
+			"loop": true,
+			"name": "beyblade"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beyblade/beyblades",
+	"position": [
+		650,
+		450
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "krystal",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -206557,
+	"camera_position": [
+		-31,
+		-141
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
