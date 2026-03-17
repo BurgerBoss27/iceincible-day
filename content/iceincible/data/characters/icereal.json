@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-889,
+				735
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-944,
+				-544
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-881,
+				-498
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-996,
+				-523
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-940,
+				-391
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-954,
+				-510
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ice",
+	"position": [
+		-820,
+		-250
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "ice",
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -3766173,
+	"camera_position": [
+		957,
+		557
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
