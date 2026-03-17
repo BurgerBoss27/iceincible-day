@@ -1,77 +1,76 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				120,
-				80
-			],
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "sloptp Idle"
-		},
-		{
-			"offsets": [
-				90,
-				98
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"name": "idle",
 			"indices": [],
-			"name": "sloptp Left"
-		},
-		{
-			"offsets": [
-				121,
-				66
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sloptp Right"
-		},
-		{
-			"offsets": [
-				81,
-				87
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDown",
-			"indices": [],
-			"name": "sloptp Down"
-		},
-		{
-			"offsets": [
-				133,
-				70
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "sloptp up"
+			"flipX": false
 		},
 		{
 			"loop": false,
+			"flipY": false,
 			"offsets": [
-				90,
-				86
+				0,
+				4
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "sloptp Down",
-			"indices": []
+			"name": "down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-4,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				2,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [],
+			"flipX": false
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/ceptulore/sloptp",
+	"no_antialiasing": true,
+	"image": "characters/ceptulore/lagosz",
 	"position": [
-		0,
-		-20
+		-90,
+		290
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
@@ -83,11 +82,11 @@
 	"flip_x": false,
 	"healthbar_colour": -3947601,
 	"camera_position": [
-		0,
-		0
+		-275,
+		-308
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 4,
-	"scale": 1,
+	"scale": 2.4,
 	"_editor_isPlayer": false
 }
