@@ -3,40 +3,53 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"iceincible rap",
-			"dad",
+			"incible",
 			[
 				146,
-				113,
-				253
+				53,
+				0
 			]
 		],
 		[
 			"boidloids",
-			"dad",
+			"beyblade",
 			[
-				146,
-				113,
-				253
+				206,
+				60,
+				53
 			]
 		],
 		[
 			"bobslaught",
-			"dad",
+			"bobnbossip",
 			[
-				146,
-				113,
-				253
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ceptualore",
+			"ring",
+			[
+				86,
+				213,
+				73
 			]
 		],
 		[
@@ -49,56 +62,43 @@
 			]
 		],
 		[
-			"ceptualore",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
 			"too ceptual",
-			"dad",
+			"brosonic",
 			[
-				146,
-				113,
-				253
+				46,
+				0,
+				115
 			]
 		],
 		[
 			"tippity",
 			"dad",
 			[
-				146,
-				113,
-				253
+				86,
+				173,
+				155
 			]
 		],
 		[
 			"gappy appy",
-			"dad",
+			"krystal",
 			[
-				146,
-				113,
-				253
+				106,
+				60,
+				235
 			]
 		],
 		[
 			"iceincible fight",
 			"dad",
 			[
-				146,
-				113,
-				253
+				255,
+				180,
+				15
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
