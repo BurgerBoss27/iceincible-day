@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-63,
-				-347
-			],
-			"flipY": false,
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				-44,
+				-252
+			],
 			"anim": "idle",
-			"flipX": false,
+			"fps": 24,
+			"name": "idle",
 			"indices": [],
-			"name": "idle"
+			"flipX": false
 		},
 		{
-			"offsets": [
-				-66,
-				-371
-			],
-			"flipY": false,
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				-13,
+				-450
+			],
 			"anim": "singDOWN",
-			"flipX": false,
+			"fps": 24,
+			"name": "down",
 			"indices": [],
-			"name": "down"
+			"flipX": false
 		},
 		{
-			"offsets": [
-				-43,
-				-348
-			],
-			"flipY": false,
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				88,
+				-292
+			],
 			"anim": "singLEFT",
-			"flipX": false,
+			"fps": 24,
+			"name": "left",
 			"indices": [],
-			"name": "left"
+			"flipX": false
 		},
 		{
-			"offsets": [
-				-101,
-				-348
-			],
-			"flipY": false,
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				-64,
+				-310
+			],
 			"anim": "singRIGHT",
-			"flipX": false,
+			"fps": 24,
+			"name": "right",
 			"indices": [],
-			"name": "right"
+			"flipX": false
 		},
 		{
-			"offsets": [
-				-69,
-				-338
-			],
-			"flipY": false,
 			"loop": false,
-			"fps": 24,
+			"flipY": false,
+			"offsets": [
+				-29,
+				-82
+			],
 			"anim": "singUP",
-			"flipX": false,
+			"fps": 24,
+			"name": "up",
 			"indices": [],
-			"name": "up"
+			"flipX": false
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/beyblade/ice",
+	"no_antialiasing": true,
+	"image": "characters/invincible",
 	"position": [
 		0,
 		0
@@ -76,17 +76,17 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "animice",
+	"healthicon": "incible",
 	"gameover_character": null,
 	"vslice_sustains": false,
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colour": -6656677,
 	"camera_position": [
-		-12,
-		381
+		50,
+		350
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
 	"scale": 1,
-	"_editor_isPlayer": true
+	"_editor_isPlayer": false
 }
