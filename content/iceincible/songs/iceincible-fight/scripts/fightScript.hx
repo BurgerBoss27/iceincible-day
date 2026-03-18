@@ -71,7 +71,5 @@ function onStepHit(){
 			isCameraOnForcedPos = true;
 		case(1840):
 			blocker.visible = false;
-		case(2352):
-			blocker.visible = true;
     }
 }
