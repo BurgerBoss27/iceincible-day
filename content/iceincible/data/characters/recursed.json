@@ -69,8 +69,8 @@
 	"no_antialiasing": true,
 	"image": "characters/gappyappy/recursed",
 	"position": [
-		0,
-		0
+		430,
+		-440
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
@@ -87,6 +87,6 @@
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
-	"scale": 1,
+	"scale": 0.6,
 	"_editor_isPlayer": false
 }

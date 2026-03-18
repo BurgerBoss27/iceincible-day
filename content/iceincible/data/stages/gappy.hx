@@ -37,7 +37,7 @@ function onLoad(){
 
 function onStepHit(){ //i didn't really want to do this in here but i kind of have to
     switch(curStep){
-        case(1000): //recursedSTART
+        case(768): //recursedSTART
 			camGame.addShader(fnaf);
 			defaultCamZoom = 0.9;
 			cameraSpeed = 99999;
