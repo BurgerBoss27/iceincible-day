@@ -25,7 +25,7 @@ function onLoad(){
     blocker.alpha = 1;
     blocker.cameras = [camOther];
     blocker.screenCenter(FlxAxes.XY);
-    //add(blocker);
+    add(blocker);
 }
 
 function onStepHit(){
