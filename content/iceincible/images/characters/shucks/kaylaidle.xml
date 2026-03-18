@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kaylaidle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kaylaidle instance 10000" x="2" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10001" x="2" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10002" x="2" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10003" x="325" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10004" x="325" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10005" x="325" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10006" x="648" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10007" x="648" y="2" width="321" height="224"/>
+	<SubTexture name="kaylaidle instance 10008" x="648" y="2" width="321" height="224"/>
+</TextureAtlas>
