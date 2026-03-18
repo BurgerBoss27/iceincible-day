@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="staticOverlay.png" width="3041" height="267">
+	<SubTexture name="staticOverlay0001" x="1" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0002" x="1" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0003" x="339" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0004" x="339" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0005" x="677" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0006" x="677" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0007" x="1015" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0008" x="1015" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0009" x="1353" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0010" x="1353" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0011" x="1691" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0012" x="1691" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0013" x="2029" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0014" x="2029" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0015" x="2367" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0016" x="2367" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0017" x="2705" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="staticOverlay0018" x="2705" y="1" width="335" height="265" frameX="-0" frameY="-0" frameWidth="335" frameHeight="265"/>
+</TextureAtlas>

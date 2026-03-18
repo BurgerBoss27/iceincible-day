@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="stage.png" width="2541" height="808">
+	<SubTexture name="stage0001" x="1" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0002" x="1" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0003" x="1" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0004" x="1" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0005" x="1" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0006" x="1272" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0007" x="1272" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0008" x="1272" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0009" x="1272" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+	<SubTexture name="stage0010" x="1272" y="1" width="1268" height="806" frameX="-0" frameY="-1" frameWidth="1269" frameHeight="807"/>
+</TextureAtlas>
