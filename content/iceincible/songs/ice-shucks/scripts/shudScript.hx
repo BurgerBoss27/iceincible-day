@@ -8,7 +8,14 @@ function onLoad(){
     blocker.alpha = 1;
     blocker.cameras = [camOther];
     blocker.screenCenter(FlxAxes.XY);
-    add(blocker);
+    //add(blocker);
+	
+    bs1 = new BGSprite(dir + "image2", 300, 100);
+    bs1.cameras = [camOther];
+	bs1.scale.set(3, 1.5);
+	bs1.visible = false;
+	bs1.alpha = 0;
+	add(bs1);
 }
 
 function onCreatePost(){
@@ -41,15 +48,21 @@ function onStepHit(){
 		case(1724):
 			FlxTween.tween(camHUD, {alpha: 0.0}, 0.2, {ease:FlxEase.LINEAR});
 			defaultCamZoom = 1.0;
+		case(1776):
+			bs1.visible = true;
+			FlxTween.tween(bs1, {alpha: 1.0}, 0.2, {ease:FlxEase.LINEAR});
 		case(1984):
 			defaultCamZoom = 0.8;
 			FlxTween.tween(camHUD, {alpha: 1.0}, 0.2, {ease:FlxEase.LINEAR});
+			FlxTween.tween(bs1, {alpha: 0.0}, 0.2, {ease:FlxEase.LINEAR});
 		case(2103):
 			FlxTween.tween(camHUD, {alpha: 0.0}, 0.2, {ease:FlxEase.LINEAR});
+			FlxTween.tween(bs1, {alpha: 1.0}, 1, {ease:FlxEase.LINEAR});
 			defaultCamZoom = 1.0;
 		case(2352):
 			FlxTween.tween(camHUD, {alpha: 1.0}, 0.3, {ease:FlxEase.LINEAR});
 		case(2368):
+			FlxTween.tween(bs1, {alpha: 0.0}, 0.2, {ease:FlxEase.LINEAR});
 			defaultCamZoom = 0.9;
 		case(2432):
 			defaultCamZoom = 0.8;
