@@ -1,10 +1,4181 @@
 {
 	"song": {
 		"player1": "incible",
-		"gfVersion": "flower",
+		"player2": "invincible",
+		"events": [
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"iceBlazin"
+					],
+					[
+						"Change Character",
+						"dad",
+						"invincibleBlazin"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				97350,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				97650,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				97950,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				98100,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				98175,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				98250,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				98325,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				98700,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				99075,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				99150,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				99225,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				99300,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				99787.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				99825,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				99900,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				100050,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				100350,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				100425,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				100650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				100725,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				100950,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				101100,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					]
+				]
+			],
+			[
+				101400,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				101475,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				101550,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				101625,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				101700,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				101850,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"bf"
+					]
+				]
+			],
+			[
+				102300,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				102450,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				102750,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				102900,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				103050,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				103125,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				103350,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				103800,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				103875,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				103950,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				104025,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				104550,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					],
+					[
+						"",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				104850,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				105150,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				105225,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				105450,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				105525,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				105900,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				105975,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				106050,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				106125,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				106200,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				106350,
+				[
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				106950,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				107100,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				107250,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				107550,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				107700,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				107775,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				107850,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				107925,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				108300,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				108675,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				108750,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				108825,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				108900,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				109200,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				109350,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				109387.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				109425,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				109650,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				109950,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				110025,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				110100,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				110250,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				110325,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				110550,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				110700,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				111075,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				111150,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				111225,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				111300,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				111450,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"bf"
+					]
+				]
+			],
+			[
+				111900,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				112050,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				112350,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				112650,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				112725,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				112950,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				113100,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				113400,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				113475,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				113550,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				113625,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				114150,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					],
+					[
+						"",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				114300,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				114450,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				114750,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				114825,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				115050,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				115125,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				115575,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				115650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				115725,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				115800,
+				[
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					]
+				]
+			],
+			[
+				115950,
+				[
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				116100,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					]
+				]
+			],
+			[
+				116250,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				116550,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				116587.5,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				116700,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				116850,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				116925,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				117150,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				117375,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				117787.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				117900,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				118200,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				118350,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				118575,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				118950,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				118987.5,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				119550,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				119775,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				119925,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				120150,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				120187.5,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				120750,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				121050,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				121237.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				121275,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				121350,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				121650,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				121687.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				121950,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				122175,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				122250,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				122287.5,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				122550,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				122587.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				122700,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				122850,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				122887.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				122925,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				123150,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				123300,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				123337.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				123375,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				123412.5,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				123450,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				123487.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				123525,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				123750,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				123787.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				123900,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				124050,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				124350,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				124575,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				124950,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				124987.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				125025,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				125100,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				125550,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				125775,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				125850,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				125887.5,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				125925,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				126150,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				126187.5,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				126300,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				126450,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				126525,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				126750,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				126975,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				127350,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				127387.5,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				127950,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				128175,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				128550,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				128587.5,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				128850,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				129150,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				129375,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				129525,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				129750,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				129787.5,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				130350,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				130650,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					]
+				]
+			],
+			[
+				130837.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				130875,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				130950,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				131100,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				131250,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				131287.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					]
+				]
+			],
+			[
+				131550,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				131700,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				131775,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				131850,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				131887.5,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				132150,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				132187.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				132300,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				132450,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				132487.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				132525,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				132750,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				132900,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				132937.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				132975,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				133012.5,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				133050,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				133087.5,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				133125,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch high 2",
+						"dad"
+					]
+				]
+			],
+			[
+				133350,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				133387.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Play Animation",
+						"cringe",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"fake out",
+						"bf"
+					]
+				]
+			],
+			[
+				133650,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"pissed",
+						"dad"
+					]
+				]
+			],
+			[
+				133950,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"bf"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				134175,
+				[
+					[
+						"Play Animation",
+						"block",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				134550,
+				[
+					[
+						"Play Animation",
+						"hit low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"punch low",
+						"dad"
+					]
+				]
+			],
+			[
+				134587.5,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit low",
+						"dad"
+					]
+				]
+			],
+			[
+				134625,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"hit high",
+						"dad"
+					]
+				]
+			],
+			[
+				134700,
+				[
+					[
+						"Play Animation",
+						"spinning",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				135150,
+				[
+					[
+						"Play Animation",
+						"punch low",
+						"bf"
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Play Animation",
+						"punch high",
+						"bf"
+					]
+				]
+			],
+			[
+				135375,
+				[
+					[
+						"Play Animation",
+						"punch low 2",
+						"bf"
+					]
+				]
+			],
+			[
+				135450,
+				[
+					[
+						"Play Animation",
+						"punch high 2",
+						"bf"
+					]
+				]
+			],
+			[
+				135487.5,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				135525,
+				[
+					[
+						"Play Animation",
+						"taunt",
+						"bf"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"invincible"
+					],
+					[
+						"Change Character",
+						"bf",
+						"incible"
+					]
+				]
+			]
+		],
 		"notes": [
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						750,
@@ -28,14 +4199,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 100,
 				"changeBPM": false,
-				"bpm": 100
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						1200,
@@ -94,14 +4265,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 100,
 				"changeBPM": false,
-				"bpm": 100
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						2550,
@@ -146,14 +4317,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						3600,
@@ -212,14 +4383,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						4950,
@@ -285,14 +4456,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						6000,
@@ -358,14 +4529,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						7350,
@@ -410,14 +4581,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						8400,
@@ -476,14 +4647,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						10500,
@@ -542,14 +4713,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						10800,
@@ -608,14 +4779,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						12300,
@@ -681,14 +4852,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						13200,
@@ -754,14 +4925,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						14550,
@@ -806,14 +4977,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						15600,
@@ -886,14 +5057,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						17250,
@@ -952,14 +5123,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						18000,
@@ -1032,14 +5203,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						19350,
@@ -1091,14 +5262,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						21300,
@@ -1143,14 +5314,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						21600,
@@ -1195,14 +5366,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						22800,
@@ -1233,14 +5404,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						24000,
@@ -1292,14 +5463,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						25200,
@@ -1344,14 +5515,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						26400,
@@ -1396,14 +5567,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						27900,
@@ -1448,14 +5619,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						28950,
@@ -1507,14 +5678,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						30000,
@@ -1559,14 +5730,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						31200,
@@ -1611,14 +5782,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						32400,
@@ -1663,14 +5834,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						33600,
@@ -1778,14 +5949,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						35700,
@@ -1844,14 +6015,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						36900,
@@ -1917,14 +6088,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						37200,
@@ -2004,14 +6175,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						38400,
@@ -2091,14 +6262,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						39750,
@@ -2164,14 +6335,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						40950,
@@ -2223,14 +6394,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						42000,
@@ -2289,14 +6460,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						43350,
@@ -2355,14 +6526,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						44400,
@@ -2456,14 +6627,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						45900,
@@ -2536,14 +6707,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						46800,
@@ -2637,14 +6808,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						48150,
@@ -2724,14 +6895,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						49200,
@@ -2790,14 +6961,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						50550,
@@ -2849,14 +7020,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						51600,
@@ -2915,14 +7086,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						52950,
@@ -2981,14 +7152,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						54000,
@@ -3047,14 +7218,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						55350,
@@ -3099,14 +7270,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						56400,
@@ -3172,14 +7343,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						57750,
@@ -3238,14 +7409,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						58800,
@@ -3304,14 +7475,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						60000,
@@ -3384,14 +7555,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						61200,
@@ -3447,14 +7618,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						62400,
@@ -3513,14 +7684,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						63600,
@@ -3576,14 +7747,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						64800,
@@ -3651,14 +7822,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						66000,
@@ -3714,14 +7885,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						67200,
@@ -3815,14 +7986,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": true,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": true
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						68400,
@@ -3881,14 +8052,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						69900,
@@ -3961,14 +8132,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						70800,
@@ -4027,14 +8198,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						72300,
@@ -4093,14 +8264,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						73200,
@@ -4159,14 +8330,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						74700,
@@ -4239,14 +8410,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						75600,
@@ -4312,14 +8483,14 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						77100,
@@ -4329,146 +8500,30 @@
 						true
 					]
 				],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
-				"sectionBeats": 4,
 				"sectionNotes": [],
+				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"mustHitSection": false,
+				"bpm": 200,
 				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionBeats": 4,
-				"sectionNotes": [],
-				"gfSection": false,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
+				"mustHitSection": false
 			},
 			{
 				"sectionNotes": [],
@@ -4480,6 +8535,132 @@
 				"mustHitSection": true
 			},
 			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						96000,
+						4,
+						0,
+						"",
+						true
+					]
+				],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						97200,
@@ -4552,14 +8733,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						98400,
@@ -4618,14 +8799,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						99600,
@@ -4712,14 +8893,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						100800,
@@ -4799,14 +8980,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						102000,
@@ -4865,14 +9046,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						103200,
@@ -4884,13 +9065,6 @@
 					[
 						103350,
 						1,
-						0,
-						"",
-						true
-					],
-					[
-						103500,
-						0,
 						0,
 						"",
 						true
@@ -4943,16 +9117,23 @@
 						0,
 						"",
 						true
+					],
+					[
+						103500,
+						0,
+						0,
+						"",
+						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						104400,
@@ -5032,14 +9213,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						105600,
@@ -5098,14 +9279,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						106800,
@@ -5168,14 +9349,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						108000,
@@ -5226,14 +9407,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						109200,
@@ -5308,14 +9489,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						110400,
@@ -5384,14 +9565,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						111600,
@@ -5442,14 +9623,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						112800,
@@ -5512,14 +9693,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						114000,
@@ -5588,14 +9769,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						115200,
@@ -5654,14 +9835,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						116400,
@@ -5727,14 +9908,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						117600,
@@ -5800,14 +9981,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						118800,
@@ -5880,14 +10061,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						120000,
@@ -5953,14 +10134,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						121200,
@@ -6047,14 +10228,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						122550,
@@ -6162,14 +10343,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						123900,
@@ -6228,14 +10409,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						125100,
@@ -6315,14 +10496,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						126150,
@@ -6380,14 +10561,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						127200,
@@ -6444,14 +10625,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						128400,
@@ -6514,14 +10695,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						129600,
@@ -6578,14 +10759,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						130800,
@@ -6660,14 +10841,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						132150,
@@ -6760,14 +10941,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						133500,
@@ -6818,14 +10999,14 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						134700,
@@ -6894,23 +11075,23 @@
 						""
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						137550,
@@ -6934,14 +11115,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						138000,
@@ -7000,14 +11181,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						139350,
@@ -7059,14 +11240,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						140400,
@@ -7125,14 +11306,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						141750,
@@ -7191,14 +11372,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						142800,
@@ -7257,14 +11438,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						144150,
@@ -7316,14 +11497,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						145200,
@@ -7382,14 +11563,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						146550,
@@ -7448,14 +11629,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						147600,
@@ -7514,14 +11695,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						148950,
@@ -7573,14 +11754,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						150000,
@@ -7639,14 +11820,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						151350,
@@ -7705,14 +11886,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						152400,
@@ -7771,14 +11952,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						153750,
@@ -7823,14 +12004,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						154800,
@@ -7896,14 +12077,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						156150,
@@ -7962,14 +12143,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						157200,
@@ -8028,14 +12209,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						158400,
@@ -8108,14 +12289,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						159600,
@@ -8174,14 +12355,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						160800,
@@ -8240,14 +12421,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						162000,
@@ -8306,14 +12487,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						163500,
@@ -8386,14 +12567,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						164400,
@@ -8452,14 +12633,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						165900,
@@ -8553,14 +12734,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						166800,
@@ -8654,14 +12835,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						168150,
@@ -8748,14 +12929,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						169200,
@@ -8856,14 +13037,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						170700,
@@ -8943,14 +13124,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						171600,
@@ -9044,14 +13225,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						173100,
@@ -9138,14 +13319,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						174000,
@@ -9246,14 +13427,14 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
 			},
 			{
+				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						175500,
@@ -9312,12 +13493,272 @@
 						true
 					]
 				],
-				"sectionBeats": 4,
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": false,
 				"changeBPM": false,
-				"mustHitSection": false
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
 			},
 			{
 				"sectionNotes": [],
@@ -9338,94 +13779,31 @@
 				"mustHitSection": true
 			},
 			{
-				"sectionNotes": [],
 				"sectionBeats": 4,
+				"sectionNotes": [],
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"sectionNotes": [],
 				"sectionBeats": 4,
+				"sectionNotes": [],
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
-				"sectionNotes": [],
 				"sectionBeats": 4,
+				"sectionNotes": [],
 				"gfSection": false,
 				"altAnim": false,
-				"bpm": 200,
+				"mustHitSection": true,
 				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"sectionBeats": 4,
-				"gfSection": false,
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
+				"bpm": 200
 			},
 			{
 				"sectionNotes": [],
@@ -9597,6 +13975,141 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"gfSection": false,
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"sectionNotes": [],
+				"bpm": 200,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,
@@ -9626,17 +14139,16 @@
 				"mustHitSection": true
 			}
 		],
-		"events": [],
-		"player2": "invincible",
+		"gfVersion": "flower",
 		"keys": 4,
 		"splashSkin": "noteSplashes",
 		"song": "iceincible fight",
-		"trackSwap": false,
-		"needsVoices": true,
-		"arrowSkin": "default",
 		"stage": "invicible",
-		"lanes": 2,
+		"arrowSkin": "default",
+		"needsVoices": true,
+		"trackSwap": false,
+		"speed": 3,
 		"bpm": 200,
-		"speed": 3
+		"lanes": 2
 	}
 }

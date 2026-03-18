@@ -1,0 +1,235 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "Pico fighting stance idle"
+		},
+		{
+			"offsets": [
+				-21,
+				27
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"flipX": false,
+			"indices": [],
+			"name": "Pico Block Hit"
+		},
+		{
+			"offsets": [
+				-25,
+				14
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"flipX": false,
+			"indices": [],
+			"name": "pico dodge"
+		},
+		{
+			"offsets": [
+				145,
+				15
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "punch high",
+			"flipX": false,
+			"indices": [],
+			"name": "punch high pico"
+		},
+		{
+			"offsets": [
+				165,
+				27
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "punch high 2",
+			"flipX": false,
+			"indices": [],
+			"name": "Punch High 2 Pico "
+		},
+		{
+			"offsets": [
+				143,
+				-2
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "punch low",
+			"flipX": false,
+			"indices": [],
+			"name": "Punch Low Pico"
+		},
+		{
+			"offsets": [
+				157,
+				-7
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "punch low 2",
+			"flipX": false,
+			"indices": [],
+			"name": "punch low 2 pico "
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				47,
+				55
+			],
+			"anim": "hit low",
+			"fps": 24,
+			"name": "hit low Pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-26,
+				38
+			],
+			"anim": "hit high",
+			"fps": 24,
+			"name": "hit high pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				5,
+				202
+			],
+			"anim": "uppercut hit",
+			"fps": 24,
+			"name": "uppercut hit pico",
+			"indices": [],
+			"flipX": true
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				49,
+				43
+			],
+			"anim": "fake out",
+			"fps": 24,
+			"name": "fake out pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				27,
+				50
+			],
+			"anim": "taunt",
+			"fps": 24,
+			"name": "laughing pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				66,
+				-94
+			],
+			"anim": "pre-uppercut",
+			"fps": 24,
+			"name": "Pre-Uppercut Pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				79,
+				144
+			],
+			"anim": "uppercut",
+			"fps": 24,
+			"name": "uppercut pico",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				5,
+				9
+			],
+			"anim": "spinning",
+			"fps": 24,
+			"name": "spin pico ",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				156,
+				14
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"flipX": false,
+			"indices": [],
+			"name": "Pico Gut Punch Death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/invincible/ice fight",
+	"position": [
+		-350,
+		370
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "incible",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -4489643,
+	"camera_position": [
+		317,
+		-129
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
