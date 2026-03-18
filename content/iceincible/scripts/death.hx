@@ -42,6 +42,13 @@ function onGameOver(){
     vid.alpha = 1;
     vid.play();
 }
+
+function onPause(){
+    if(isDead){
+        return Function_Stop;
+    } else return Function_Continue;
+}
+
 /*
 function onUpdate(elapsed){
     if(isDead)
