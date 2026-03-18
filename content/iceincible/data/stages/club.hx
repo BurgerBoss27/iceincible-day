@@ -31,6 +31,7 @@ function onCreatePost(){
 
     spot1.zIndex = dad.zIndex + 1;
     spot2.zIndex = dad.zIndex + 2;
+    speakers.zIndex = dad.zIndex + 4;
     fgBops.zIndex = dad.zIndex + 5;
     slGreen.zIndex = dad.zIndex + 6;
     slPurple.zIndex = dad.zIndex + 7;
@@ -138,6 +139,10 @@ function onLoad(){
     spot2.blend = BlendMode.ADD;
     FlxTween.tween(spot2, {angle: 2}, 4, {ease:FlxEase.sineInOut, type:4});
 
+    speakers = new BGSprite('bg/tippity/fgSpeakers', 1500, -149);
+    speakers.antialiasing = false;
+    speakers.scale.set(2, 2);
+    speakers.scrollFactor.set(1.4, 1.4);
 
     fgBops = new FlxSprite(-20, bgBopsY);
     fgBops.frames = Paths.getSparrowAtlas('bg/tippity/fgBops');
@@ -185,7 +190,7 @@ function onLoad(){
 	add(stage);
     add(spot1);
     add(spot2);
-    //fgspeakerrs
+    add(speakers);
     add(fgBops);
     add(kistal);
     add(slGreen);
