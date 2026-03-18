@@ -3,15 +3,15 @@ var controls = PlayerSettings.player1.controls;
 var vid:FunkinVideoSprite;
 
 var deathMap:Map<String,String> = [
-    "iceincible-rap" => "1",
+    "iceincible-rap" => "icerapgameover",
     "boidloids" => "bblade",
     "bobslaught" => "bob"
-    "ceptualore" => "4",
-    "ice-shucks" => "5",
-    "too ceptual" => "6",
-    "tippity" => "7",
+    "ceptualore" => "chud",
+    "ice-shucks" => "shucksdeath",
+    "too ceptual" => "tooceptual",
+    "tippity" => "tpt",
     "gappy appy" => "gameover1",
-    "iceincible fight" => "9",
+    "iceincible fight" => "invincibledeath",
 ];
 
 function onCreatePost(){
