@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "iceidle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				106,
+				-175
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "icedown",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				78,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "iceleft",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-6,
+				-79
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "iceright",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				66,
+				228
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "iceup",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shucks/iceaethos",
+	"position": [
+		0,
+		40
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "shuds",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -10604522,
+	"camera_position": [
+		-75,
+		24
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
