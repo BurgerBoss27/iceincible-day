@@ -39,10 +39,7 @@ function onStepHit(){ //i didn't really want to do this in here but i kind of ha
     switch(curStep){
         case(768): //recursedSTART
 			camGame.addShader(fnaf);
-			defaultCamZoom = 0.9;
 			cameraSpeed = 99999;
-			camFollow.setPosition(150, 90);
-			isCameraOnForcedPos = true;
 			b1.visible = false;
 			b2.visible = false;
 			b3.visible = false;
